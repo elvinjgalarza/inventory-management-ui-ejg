@@ -14,7 +14,6 @@ import Header from "../pattern-components/Header";
 import "../pattern-components/patterns.scss";
 
 class StockItemList extends Component {
-  ...
 }
 
 export default StockItemList;
